@@ -1,0 +1,8 @@
+Product Management Application 
+
+This is a Command Line Interface project where the user is allowed to 
+interact with the  application to track and manage the products.This
+is a beginner friendly project to get mastered with Object Oriented 
+Programming and Database. This project uses command line Interface as 
+the frontend,oops to manage the data and the database to store the 
+product information.
